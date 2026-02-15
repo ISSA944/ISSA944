@@ -22,18 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ISSA944&show_icons=true&theme=dark" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISSA944&layout=compact&theme=dark" />
-</p>
-
----
-
 ### 🌍 Connect With Me
 
 - 📩 Email: mukan.iskander@mail.ru  
