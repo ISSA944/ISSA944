@@ -6,11 +6,11 @@
 
 ### 💻 About Me
 
-- 🔥 Focused on writing clean and scalable code  
-- 🎨 Building modern and interactive UI experiences  
-- 🧠 Strong foundation in HTML, CSS, and JavaScript  
-- ⚛️ Actively mastering React  
-- 🚀 Continuously improving through real-world projects  
+-  Focused on writing clean and scalable code  
+-  Building modern and interactive UI experiences  
+-  Strong foundation in HTML, CSS, and JavaScript  
+-  Actively mastering React  
+-  Continuously improving through real-world projects  
 
 ---
 
