@@ -24,20 +24,12 @@
 
 ### 🌍 Connect With Me
 
-<br>
 
 <p align="left">
-  <a href="mailto:mukan.iskander@mail.ru" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" style="margin-right: 20px;" />
-  </a>
-
   <a href="https://instagram.com/issa_mukan" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" />
   </a>
 </p>
-
-<br>
-<br>
 
 
 ---
