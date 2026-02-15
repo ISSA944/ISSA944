@@ -26,11 +26,11 @@
 
 <p align="left">
   <a href="mailto:mukan.iskander@mail.ru">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="40" />
+    <img src="https://cdn.simpleicons.org/gmail/00ff88" width="40" />
   </a>
 
   <a href="https://instagram.com/issa_mukan">
-    <img src="https://cdn.simpleicons.org/instagram/ffffff" width="40" />
+    <img src="https://cdn.simpleicons.org/instagram/00ff88" width="40" />
   </a>
 </p>
 
